@@ -1,0 +1,4 @@
+[submodule "docs/themes/ananke"]
+	path = docs/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+	shallow = true
