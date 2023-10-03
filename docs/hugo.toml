@@ -10,4 +10,4 @@ defaultContentLanguageInSubdir = false
     languageDirection = 'ltr'
     languageName = 'English'
 [security.exec]
-    allow = ['^asciidoctor$']
+  allow = ['^asciidoctor$']
