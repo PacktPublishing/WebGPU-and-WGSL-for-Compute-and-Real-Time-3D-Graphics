@@ -1,3 +1,5 @@
 = WebGPU-and-WGSL-for-Compute-and-Real-Time-3D-Graphics
 
 WebGPU and WGSL for Compute and Real-Time 3D Graphics, published by Packt
+
+https://packtpublishing.github.io/WebGPU-and-WGSL-for-Compute-and-Real-Time-3D-Graphics/
