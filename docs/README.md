@@ -1,4 +1,4 @@
-= WebGPU-and-WGSL-for-Compute-and-Real-Time-3D-Graphics
+# WebGPU-and-WGSL-for-Compute-and-Real-Time-3D-Graphics
 
 WebGPU and WGSL for Compute and Real-Time 3D Graphics, published by Packt
 
