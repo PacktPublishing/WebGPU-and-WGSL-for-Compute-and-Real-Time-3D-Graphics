@@ -3,3 +3,10 @@ title: "Blogs and Docs"
 ---
 
 Blogs and Docs for WebGPU and WGSL for Compute and Real Time 3D Graphics
+
+[latexmath]
+++++
+{a^2 + b^2 + c^2} = {r^2}
+++++
+
+latexmath:[{a^2 + b^2 + c^2} = {r^2}]
