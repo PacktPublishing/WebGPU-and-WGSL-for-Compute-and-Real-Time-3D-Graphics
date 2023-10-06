@@ -43,7 +43,8 @@ jobs:
         run: |
           sudo apt-get update -y
           sudo apt-get install -y asciidoctor
-          sudo gem install asciidoctor-bibtex asciidoctor-diagram asciidoctor-latex
+          sudo gem install asciidoctor-bibtex asciidoctor-diagram
+          sudo gem install asciidoctor-latex --pre
       - name: Checkout
         uses: actions/checkout@v3
         with:
