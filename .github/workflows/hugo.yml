@@ -42,7 +42,8 @@ jobs:
       - name: Install Asciidoctor
         run: |
           sudo apt-get update -y
-          sudo apt-get install -y asciidoctor
+          sudo apt-get install -y rubygems
+          sudo gem install asciidoctor
           sudo gem install asciidoctor-bibtex asciidoctor-diagram
           sudo gem install asciidoctor-latex --pre
       - name: Checkout
