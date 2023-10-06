@@ -11,3 +11,6 @@ defaultContentLanguageInSubdir = false
     languageName = 'English'
 [security.exec]
   allow = ['^asciidoctor$']
+[markup.asciidocExt]
+  extensions = ['asciidoctor-bibtex', 'asciidoctor-diagram', 'asciidoctor-latex']
+  workingFolderCurrent = true
