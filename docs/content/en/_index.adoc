@@ -23,6 +23,12 @@ citenp:[Haines2019]
 
 latexmath:[{a^2 + b^2 + c^2} = {r^2}]
 
+[source,mermaid]
+----
+graph
+  A
+----
+
 
 == References
 

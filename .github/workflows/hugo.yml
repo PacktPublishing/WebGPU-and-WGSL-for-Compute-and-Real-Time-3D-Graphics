@@ -45,6 +45,7 @@ jobs:
           sudo apt-get install -y rubygems
           sudo gem install asciidoctor
           sudo gem install asciidoctor-bibtex asciidoctor-diagram
+          npm install -g @mermaid-js/mermaid-cli
       - name: Checkout
         uses: actions/checkout@v3
         with:
