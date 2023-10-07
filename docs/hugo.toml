@@ -10,7 +10,8 @@ defaultContentLanguageInSubdir = false
     languageDirection = 'ltr'
     languageName = 'English'
 [security.exec]
+  osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|GEM_PATH|GEM_HOME)$']
   allow = ['^asciidoctor$']
 [markup.asciidocExt]
-  extensions = ['asciidoctor-diagram']
+  extensions = ['asciidoctor-bibtex', 'asciidoctor-diagram']
   workingFolderCurrent = true

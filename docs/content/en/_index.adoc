@@ -1,12 +1,29 @@
 ---
 title: "Blogs and Docs"
 ---
+:stem: latexmath
+:bibtex-style: apa
 
 Blogs and Docs for WebGPU and WGSL for Compute and Real Time 3D Graphics
+
+Oguz Mehmet Oguz Derin 𐱅𐰼𐰭𐰆𐰍𐰔
+
+&#x10C45;&#x10C3C;&#x10C2D;&#x10C06;&#x10C0D;&#x10C14;
+
+:&#x10C45;&#x10C3C;&#x10C2D;&#x10C06;&#x10C0D;&#x10C14;:
+
+cite:[derin-harada-2021-universal]
 
 [latexmath]
 ++++
 {a^2 + b^2 + c^2} = {r^2}
 ++++
 
+citenp:[Haines2019]
+
 latexmath:[{a^2 + b^2 + c^2} = {r^2}]
+
+
+== References
+
+bibliography::[]
